@@ -1,10 +1,13 @@
 # revshell-generator
+<p align="center">
+	<img src="http://www.hackthebox.eu/badge/image/234811" alt="Hack The Box">
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/github/last-commit/insidious-security/reverse-shell-generator.svg?style=for-the-badge">
 </p>
 
-This python_script creates a bash_script listening several interpreters for an incoming tcp connection:
+This python script creates a bash script called 'rev' listening several interpreters for an incoming tcp connection:
 - bash
 - php
 - netcat
