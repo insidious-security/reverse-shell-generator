@@ -1,6 +1,6 @@
 # revshell-generator
 
-This python script creates a bash script called 'rev' listening with several interpreters for an incoming tcp connection:
+This python code creates a bash script called 'rev' listening for an incoming tcp connections with several interpreters:
 - bash
 - php
 - netcat
