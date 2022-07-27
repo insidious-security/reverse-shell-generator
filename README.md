@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/last-commit/insidious-security/reverse-shell-generator.svg?style=for-the-badge">
 </p>
 
-This python script creates a bash script called 'rev' listening several interpreters for an incoming tcp connection:
+This python script creates a bash script called 'rev' listening with several interpreters for an incoming tcp connection:
 - bash
 - php
 - netcat
