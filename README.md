@@ -17,4 +17,10 @@ This python script creates a bash script called 'rev' listening with several int
 ```bash
 # Example ip:
 python3 revsh.py 10.0.0.x 4444
+
+# This script is based on the revshell generator used by XCT in his CTF challenges.
+# Since I could not find the source in his github repos, I wrote the above code instead.
 ```
+
+
+
