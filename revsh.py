@@ -43,7 +43,7 @@ fi\n\n''')
 	
 
 def foofile():
-	os.popen("chmod +x rev")
+  os.popen("chmod +x rev")
 
 if __name__ == '__main__':
   bAnner()
